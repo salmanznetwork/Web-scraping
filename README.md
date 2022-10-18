@@ -1,3 +1,0 @@
-## Web scrapping Project
-
-- imdb
